@@ -35,3 +35,7 @@ build/
 eclipse-formatter.xml
 /**/application.properties
 /**/openai.properties
+
+# Spring Boot sensitive properties
+/src/main/resources/application.properties
+/src/main/resources/openai.properties
